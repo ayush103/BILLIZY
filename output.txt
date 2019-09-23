@@ -1,0 +1,36 @@
+#PurchaseOrder
+{
+	"doctype":"PO",
+	"GSTIN/UIN":"27AAATPOOGSGZZSinl'",
+	"StaleName":"Maharashtra.Code 27Terms0eIvery",
+	"N":"Containerliom,7777,77777R33,77r",
+	"7‘13}122-03P25"":"90,581.0(",
+	"Company/sPAN":"AABCTBOSSL",
+	"Rngd.Office":"9,SalnamMansron.1stFloor.190,Dr.AmbedkarRoad,NearChitraCinema.Dadar(E).Mumbal-400014,",
+	"Tel":"+91-22-43349999Fax.+91—22-43349998Email Sales@teamoneindia_comWeb www.teamoneindiB-C°m",
+	"CIN":"U72100MH1999PTC119178",
+}
+#PurchaseOrder
+{
+	"doctype":"PO",
+	"101CecilStreet,#11711TongEngBuilding,Singapore069533lPhone":"(65)64383504mm“mmmmmummWM",
+	"Email":"success@ashnik.comlwww.ashnik.com",
+	"P0NumberDATEASHNIKReferenceItGST"0-":"",
+	"Endcustomer":"PT.lnovasiInformatikaIndonesia",
+	"Note":"",
+	"Inwords":"USDollarOneHundredandFiftyonly",
+	"Billto":"AshnikPteLtd,101CecilStreet,#11711TongEngBuilding,Singapore069533",
+	"Terms":"Payment30daysaftertheinvoice",
+}
+#PurchaseOrder
+{
+	"doctype":"PO",
+	"101CecilStreet,#11711TongEngBuilding,Singapore069533lPhone":"(65)64383504mm“mmmmmummWM",
+	"Email":"success@ashnik.comlwww.ashnik.com",
+	"P0NumberDATEASHNIKReferenceItGST"0-":"",
+	"Endcustomer":"PT.lnovasiInformatikaIndonesia",
+	"Note":"",
+	"Inwords":"USDollarOneHundredandFiftyonly",
+	"Billto":"AshnikPteLtd,101CecilStreet,#11711TongEngBuilding,Singapore069533",
+	"Terms":"Payment30daysaftertheinvoice",
+}
